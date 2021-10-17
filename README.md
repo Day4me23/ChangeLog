@@ -19,6 +19,12 @@ A change log for Spicy Box.
 * Began declaring rules for new game concept.
 * **Rules**
 * One player will select a theme card at random while the remaining 3 players will select 3 noun cards at random.
+* The players that selected noun cards will select one of the 3 cards they have and give that card to the player to their left. The player that selected the theme card will not recieve a noun card.
+* Each player will have 1 minute to negotiate how their noun card has the most resemblance to the selected theme card.
+* Once the players time is up they may not speak until the round is over.
+* After each player pleads their case to the theme selector, the theme selector will now decide which player negotiated the best.
+* Whichever player negotiated the best will recieve one point.
+* The first player to achieve 5 points will be the winner.
 
 ### Session 2: October 4, 2021
 * Created our first game concept based off of our intended mechanic.
