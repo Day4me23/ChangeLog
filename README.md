@@ -17,7 +17,7 @@ A change log for Spicy Box.
 * Updated previous game concept with a more accepting and inviting concept.
 * Changed game concept from providing players with the best version of game development, to providing players with the worst nouns to the selected adjective.
 * Began declaring rules for new game concept.
-** **Rules**
+* **Rules**
 * One player will select a theme card at random while the remaining 3 players will select 3 noun cards at random.
 
 ### Session 2: October 4, 2021
