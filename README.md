@@ -6,12 +6,16 @@ A change log for Spicy Box.
 * Adjusted rule sheet instruction on disposal of noun cards per round.
 * Adjusted layout of information on rule sheet.
 * Added a visual diagram on the rule sheet showcasing how a round is played.
+* Added a box to store all of the game materials.
+* Printed cards for all nouns similar to the themes.
 
 ### Session 4-Playtest One: October 11, 2021
 * Created the title of our card game: Spicy Box.
 * Adjusted rule sheet instruction on picking card types.
 * Adjusted description with rule sheet on how a player wins a round.
 * Updated noun card number from 37 to 67.
+* Players will now have only 15 seconds to negotiate why their noun card fits the selected theme card.
+* To win, any player only has to achieve 3 points now.
 
 ### Session 3: October 6, 2021
 * Updated previous game concept with a more accepting and inviting concept.
